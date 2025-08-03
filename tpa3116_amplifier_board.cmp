@@ -1,0 +1,331 @@
+Cmp-Mod V01 Created by PcbNew   date = Вс 03 авг 2025 14:04:39
+
+BeginCmp
+TimeStamp = 01edc436-e538-4f52-b5b5-fa1b0293d6c3
+Path = /055c9973-470a-4e50-9d9b-f14eedbeb687
+Reference = R9;
+ValeurCmp = 3.3;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 05137894-d4d3-46d5-a253-31764038af11
+Path = /16ac3e08-6975-42df-91ef-68b80cea77f5
+Reference = R4;
+ValeurCmp = 0;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 092cddc7-4d90-4520-91b8-704cd8ffc2c8
+Path = /0511cd59-aa39-460d-8c3c-73f3224f664b
+Reference = J1;
+ValeurCmp = power_supply;
+IdModule  = Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 0b579d43-3790-4dd2-b33e-2466dbbddec5
+Path = /62d8daae-c476-431c-9a0b-96b449ce1d53
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bd8f53d-cd8c-47c2-acfd-b77b00e6e39b
+Path = /b889b654-5fc0-4b8b-a579-3f13525251a1
+Reference = C2;
+ValeurCmp = 470n;
+IdModule  = Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 108e227b-8af7-4210-8b9e-df01c043a787
+Path = /4c6b3166-e39f-4e9a-aef8-46f420619494
+Reference = R6;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1ca936ba-5dd9-407a-8f68-287e0d0d47da
+Path = /e5c3c164-1449-4963-bbe5-6ffcbd24525f
+Reference = C15;
+ValeurCmp = 470n;
+IdModule  = Capacitor_SMD:C_1812_4532Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d40bc5f-3c2c-4be4-b3a6-eef215de2276
+Path = /a5b5f818-2b15-4e41-9510-cc00cc861f57
+Reference = H6;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 2ce7e619-1764-45f4-847d-e58cec22238f
+Path = /ae1ada8f-5167-4686-baa9-1ffb34909ae7
+Reference = R7;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3200b61d-6042-4aaa-ac59-313eae86e3be
+Path = /231cf80e-9397-44d8-a433-000672bfd3aa
+Reference = C12;
+ValeurCmp = 35v 470u;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 358c88c6-daf6-4df9-a1a0-e0d42354d023
+Path = /021db0a2-bbbd-4acc-8e87-2cdf3405840f
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3605b394-fcd2-4ed6-8c78-b7a8be2f7a5d
+Path = /7a162228-30ff-4b4b-af5a-20a3a470ad04
+Reference = C13;
+ValeurCmp = 35v 470u;
+IdModule  = Capacitor_THT:CP_Radial_D10.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4701dd74-c323-4f84-9bdd-f51104d7b323
+Path = /8c6560c0-c667-4902-95d7-8b547a275615
+Reference = C1;
+ValeurCmp = 470n;
+IdModule  = Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 486dca8f-00f7-4c12-8df3-4386ab6d8c3a
+Path = /48546839-8a30-4760-8435-625d82eddff0
+Reference = L2;
+ValeurCmp = 10u;
+IdModule  = Inductor_SMD:L_12x12mm_H8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 52efd2bb-ae70-4eb0-8fc6-29c2652a4241
+Path = /9ca3aab7-7131-415e-bc6e-99eb4df5384a
+Reference = C6;
+ValeurCmp = 220n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e9aec90-46dc-4af8-98ee-302eeea7f560
+Path = /3ef3f699-ddbd-4d58-abe6-f54ff1e8155e
+Reference = C14;
+ValeurCmp = 470n;
+IdModule  = Capacitor_SMD:C_1812_4532Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5f398511-898f-4c9e-9379-0d2c1c93c058
+Path = /72cee3aa-1cd5-42d3-bf0d-3a75ebeb90bf
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 625560b7-b015-4065-959f-70229919fa69
+Path = /b3321913-898f-4edf-aa27-a6b798a60945
+Reference = J4;
+ValeurCmp = output_right;
+IdModule  = Connector_JST:JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 68cedd91-60bb-4a62-b95b-6468b9773ed3
+Path = /151d4b8e-a80c-4884-97de-632815bed635
+Reference = C11;
+ValeurCmp = 220n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7c88b778-42f9-4ec9-b3f3-13eb6d8c6ace
+Path = /1cee5cc6-00eb-488a-92af-4c13b3f659ff
+Reference = C16;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 89cc91e5-3591-4d1e-9d28-22eb5e972979
+Path = /a3a8e30d-8ba8-4c52-9be1-4cb9879c022c
+Reference = C19;
+ValeurCmp = 10n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8d61b18f-7be0-4162-9e7e-82e3bc2e51aa
+Path = /1c25c9de-49e9-4350-b091-b955a6085f73
+Reference = J3;
+ValeurCmp = power_supply;
+IdModule  = Connector_JST:JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = a336ce87-bf85-45b7-b7ea-d6e56a080ec2
+Path = /227887ea-1533-4da1-b269-168b3942c3ad
+Reference = C8;
+ValeurCmp = 220n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a4e8becc-a38e-4ff5-900c-bdffcaf60df1
+Path = /d755eec8-c1e7-439f-af43-1a1cccce7916
+Reference = R8;
+ValeurCmp = 3.3;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a93a77aa-ac7a-456b-89f0-63a2ebbc2415
+Path = /99be163e-4787-4922-83a1-1d29c26b249a
+Reference = J2;
+ValeurCmp = Conn_01x04;
+IdModule  = Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = aa920df8-e15b-44f3-a5ed-0fdee8d8ecba
+Path = /5a0c4c0d-ee84-46e8-b6d5-c7bcdb5f083c
+Reference = IC1;
+ValeurCmp = TPA3116D2QDADRQ1;
+IdModule  = local:SOP65P810X120-33N;
+EndCmp
+
+BeginCmp
+TimeStamp = ab3cf7be-add5-4c98-890c-5c1d9fc44a9f
+Path = /5788850c-98c6-415b-8800-c33250c5e891
+Reference = R3;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = abeaba41-b4c3-4c65-b8fc-25c640f14446
+Path = /4fd6a180-5eca-4f52-b068-d636900d484d
+Reference = C9;
+ValeurCmp = 220n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b51fc613-b3e9-4fea-907c-927c992b2580
+Path = /329fc9be-32e3-4ca7-9c9c-4b49a37e4dce
+Reference = C5;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b978b38c-8bde-4a98-b789-f08482008943
+Path = /4cfdc984-53a9-4fe5-88bd-f82b0cc9c0f2
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = bc4f3880-0af0-4e49-af96-cb823aac50f7
+Path = /10b5312b-7927-4c31-943f-f1753a4975ab
+Reference = C10;
+ValeurCmp = 220n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bcfb9b50-797f-4bc3-a40e-751df2ee72a0
+Path = /98b03a3b-ea7f-4b05-8521-7dd685407c6c
+Reference = C7;
+ValeurCmp = 220n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bdbc67ab-5cc6-4529-a17a-923e82eff1c4
+Path = /cc4f2208-34ee-43fc-912a-af052600ed05
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c9973b14-a36f-4d27-923d-632e6847b440
+Path = /b0eda2fb-d225-46ad-a77b-7711849f6903
+Reference = C4;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = ccd29171-dcda-4790-834c-421c44109791
+Path = /6544ef94-3020-499c-8238-9630b7c9ab90
+Reference = H5;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = cea4f892-ff2f-44a3-bbf6-c58614863004
+Path = /b21348ca-7666-4889-b9f0-53345826a740
+Reference = L1;
+ValeurCmp = 10u;
+IdModule  = Inductor_SMD:L_12x12mm_H8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d6fbea87-df74-4080-8a17-4d7d39c8a657
+Path = /d68ab3ab-23e8-4d29-8625-f1fa6fcd06ce
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_DIN965_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = dae4668e-7b27-43a1-b13d-5be167239b0e
+Path = /acd182a3-0036-4e45-989d-37de31cb3f88
+Reference = C17;
+ValeurCmp = 1n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = dbea8c42-3db1-4ef9-a729-813d9cfc6dc0
+Path = /295c436f-e9f8-4d25-ac52-29bbc6bde6f4
+Reference = R2;
+ValeurCmp = --;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = ec5daee6-98e9-439c-8b41-61ee1fc78247
+Path = /a005c020-91ed-47a0-a87d-4583cba3691c
+Reference = C18;
+ValeurCmp = 10n;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = f790d1e1-e18d-4bd4-8b8a-7a86f70394bd
+Path = /94e27f07-4d2b-4d78-a7a5-be444621bc94
+Reference = R1;
+ValeurCmp = 20k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+EndListe

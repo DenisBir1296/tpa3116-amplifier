@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/denis/Projects/Kicad/tpa3116_amplifier_board/tpa3116_amplifier_board.kicad_sch</source>
+    <date>Вс 03 авг 2025 14:01:54</date>
+    <tool>Eeschema 7.0.11+dfsg-1build4</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>tpa3116_amplifier_board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c6560c0-c667-4902-95d7-8b547a275615</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>470n</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b889b654-5fc0-4b8b-a579-3f13525251a1</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4f2208-34ee-43fc-912a-af052600ed05</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0eda2fb-d225-46ad-a77b-7711849f6903</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>329fc9be-32e3-4ca7-9c9c-4b49a37e4dce</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ca3aab7-7131-415e-bc6e-99eb4df5384a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98b03a3b-ea7f-4b05-8521-7dd685407c6c</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>227887ea-1533-4da1-b269-168b3942c3ad</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fd6a180-5eca-4f52-b068-d636900d484d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10b5312b-7927-4c31-943f-f1753a4975ab</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>220n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>151d4b8e-a80c-4884-97de-632815bed635</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>35v 470u</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>231cf80e-9397-44d8-a433-000672bfd3aa</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>35v 470u</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a162228-30ff-4b4b-af5a-20a3a470ad04</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>470n</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ef3f699-ddbd-4d58-abe6-f54ff1e8155e</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>470n</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5c3c164-1449-4963-bbe5-6ffcbd24525f</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cee5cc6-00eb-488a-92af-4c13b3f659ff</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acd182a3-0036-4e45-989d-37de31cb3f88</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a005c020-91ed-47a0-a87d-4583cba3691c</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3a8e30d-8ba8-4c52-9be1-4cb9879c022c</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cfdc984-53a9-4fe5-88bd-f82b0cc9c0f2</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72cee3aa-1cd5-42d3-bf0d-3a75ebeb90bf</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62d8daae-c476-431c-9a0b-96b449ce1d53</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d68ab3ab-23e8-4d29-8625-f1fa6fcd06ce</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6544ef94-3020-499c-8238-9630b7c9ab90</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5b5f818-2b15-4e41-9510-cc00cc861f57</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TPA3116D2QDADRQ1</value>
+      <footprint>local:SOP65P810X120-33N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/tpa3116d2-q1</datasheet>
+      <fields>
+        <field name="Arrow Part Number">TPA3116D2QDADRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tpa3116d2qdadrq1/texas-instruments?utm_currency=USD&amp;region=nac</field>
+        <field name="Description">2-Ch, 50-W Analog Input Class-D Audio Amplifier</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPA3116D2QDADRQ1</field>
+        <field name="Mouser Part Number">595-TPA3116D2QDADRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3116D2QDADRQ1?qs=UPLqB4C8V4HphPtdRa3LzQ%3D%3D</field>
+      </fields>
+      <libsource lib="local" part="TPA3116D2QDADRQ1" description="2-Ch, 50-W Analog Input Class-D Audio Amplifier"/>
+      <property name="Description" value="2-Ch, 50-W Analog Input Class-D Audio Amplifier"/>
+      <property name="Height" value="1.2"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TPA3116D2QDADRQ1"/>
+      <property name="Mouser Part Number" value="595-TPA3116D2QDADRQ1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3116D2QDADRQ1?qs=UPLqB4C8V4HphPtdRa3LzQ%3D%3D"/>
+      <property name="Arrow Part Number" value="TPA3116D2QDADRQ1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/tpa3116d2qdadrq1/texas-instruments?utm_currency=USD&amp;region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="2-Ch, 50-W Analog Input Class-D Audio Amplifier"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a0c4c0d-ee84-46e8-b6d5-c7bcdb5f083c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>power_supply</value>
+      <footprint>Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0511cd59-aa39-460d-8c3c-73f3224f664b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99be163e-4787-4922-83a1-1d29c26b249a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>power_supply</value>
+      <footprint>Connector_JST:JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c25c9de-49e9-4350-b091-b955a6085f73</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>output_right</value>
+      <footprint>Connector_JST:JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3321913-898f-4edf-aa27-a6b798a60945</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10u</value>
+      <footprint>Inductor_SMD:L_12x12mm_H8mm</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b21348ca-7666-4889-b9f0-53345826a740</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>10u</value>
+      <footprint>Inductor_SMD:L_12x12mm_H8mm</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48546839-8a30-4760-8435-625d82eddff0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94e27f07-4d2b-4d78-a7a5-be444621bc94</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>--</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>295c436f-e9f8-4d25-ac52-29bbc6bde6f4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5788850c-98c6-415b-8800-c33250c5e891</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16ac3e08-6975-42df-91ef-68b80cea77f5</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>021db0a2-bbbd-4acc-8e87-2cdf3405840f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c6b3166-e39f-4e9a-aef8-46f420619494</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae1ada8f-5167-4686-baa9-1ffb34909ae7</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>3.3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d755eec8-c1e7-439f-af43-1a1cccce7916</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>3.3</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="tpa3116_amplifier_board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>055c9973-470a-4e50-9d9b-f14eedbeb687</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="local" part="TPA3116D2QDADRQ1">
+      <description>2-Ch, 50-W Analog Input Class-D Audio Amplifier</description>
+      <docs>http://www.ti.com/lit/gpn/tpa3116d2-q1</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TPA3116D2QDADRQ1</field>
+        <field name="Footprint">SOP65P810X120-33N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/tpa3116d2-q1</field>
+        <field name="Description">2-Ch, 50-W Analog Input Class-D Audio Amplifier</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPA3116D2QDADRQ1</field>
+        <field name="Mouser Part Number">595-TPA3116D2QDADRQ1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA3116D2QDADRQ1?qs=UPLqB4C8V4HphPtdRa3LzQ%3D%3D</field>
+        <field name="Arrow Part Number">TPA3116D2QDADRQ1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/tpa3116d2qdadrq1/texas-instruments?utm_currency=USD&amp;region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MODSEL" type="passive"/>
+        <pin num="2" name="SD" type="passive"/>
+        <pin num="3" name="FAULT" type="passive"/>
+        <pin num="4" name="RINP" type="passive"/>
+        <pin num="5" name="RINN" type="passive"/>
+        <pin num="6" name="PLIMIT" type="passive"/>
+        <pin num="7" name="GVDD" type="passive"/>
+        <pin num="8" name="GAIN/SLV" type="passive"/>
+        <pin num="9" name="GND_1" type="passive"/>
+        <pin num="10" name="LINP" type="passive"/>
+        <pin num="11" name="LINN" type="passive"/>
+        <pin num="12" name="MUTE" type="passive"/>
+        <pin num="13" name="AM2" type="passive"/>
+        <pin num="14" name="AM1" type="passive"/>
+        <pin num="15" name="AM0" type="passive"/>
+        <pin num="16" name="SYNC" type="passive"/>
+        <pin num="17" name="AVCC" type="passive"/>
+        <pin num="18" name="PVCC_1" type="passive"/>
+        <pin num="19" name="PVCC_2" type="passive"/>
+        <pin num="20" name="BSNL" type="passive"/>
+        <pin num="21" name="OUTNL" type="passive"/>
+        <pin num="22" name="GND_2" type="passive"/>
+        <pin num="23" name="OUTPL" type="passive"/>
+        <pin num="24" name="BSPL" type="passive"/>
+        <pin num="25" name="GND_3" type="passive"/>
+        <pin num="26" name="BSNR" type="passive"/>
+        <pin num="27" name="OUTNR" type="passive"/>
+        <pin num="28" name="GND_4" type="passive"/>
+        <pin num="29" name="OUTPR" type="passive"/>
+        <pin num="30" name="BSPR" type="passive"/>
+        <pin num="31" name="PVCC_3" type="passive"/>
+        <pin num="32" name="PVCC_4" type="passive"/>
+        <pin num="33" name="GND_5" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="local">
+      <uri>/home/denis/Projects/Kicad/tpa3116_amplifier_board/local.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/R+">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="2" name="/R-">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/SD_LR">
+      <node ref="IC1" pin="2" pinfunction="SD" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="FAULT" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/mute">
+      <node ref="IC1" pin="12" pinfunction="MUTE" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/sync">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="MODSEL" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="LINP" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="LINN" pintype="passive"/>
+      <node ref="IC1" pin="13" pinfunction="AM2" pintype="passive"/>
+      <node ref="IC1" pin="14" pinfunction="AM1" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="AM0" pintype="passive"/>
+      <node ref="IC1" pin="22" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC1" pin="25" pinfunction="GND_3" pintype="passive"/>
+      <node ref="IC1" pin="28" pinfunction="GND_4" pintype="passive"/>
+      <node ref="IC1" pin="33" pinfunction="GND_5" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="GND_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(IC1-BSNL)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="20" pinfunction="BSNL" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(IC1-BSNR)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="26" pinfunction="BSNR" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(IC1-BSPL)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="24" pinfunction="BSPL" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(IC1-BSPR)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="30" pinfunction="BSPR" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(IC1-GAIN{slash}SLV)">
+      <node ref="IC1" pin="8" pinfunction="GAIN/SLV" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(IC1-GVDD)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="GVDD" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IC1-OUTNL)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="21" pinfunction="OUTNL" pintype="passive"/>
+      <node ref="IC1" pin="23" pinfunction="OUTPL" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IC1-OUTNR)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="27" pinfunction="OUTNR" pintype="passive"/>
+      <node ref="IC1" pin="29" pinfunction="OUTPR" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(IC1-PLIMIT)">
+      <node ref="IC1" pin="6" pinfunction="PLIMIT" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(IC1-RINN)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="RINN" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC1-RINP)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="RINP" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC1-SYNC)">
+      <node ref="IC1" pin="16" pinfunction="SYNC" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J4-Pin_1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J4-Pin_2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="VCC">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="17" pinfunction="AVCC" pintype="passive"/>
+      <node ref="IC1" pin="18" pinfunction="PVCC_1" pintype="passive"/>
+      <node ref="IC1" pin="19" pinfunction="PVCC_2" pintype="passive"/>
+      <node ref="IC1" pin="31" pinfunction="PVCC_3" pintype="passive"/>
+      <node ref="IC1" pin="32" pinfunction="PVCC_4" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
